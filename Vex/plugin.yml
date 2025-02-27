@@ -1,0 +1,6 @@
+name: Vex 
+author: phrqndy 
+main: Vex\phrqndy\Vex\Vex 
+version: 1.0.0 
+description: My First Plugin
+api: 5.25.0 
