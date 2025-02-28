@@ -9,7 +9,8 @@ use pocketmine\event\player\PlayerJoinEvent;
 class Vex extends PluginBase implements Listener
 {
     public function onEnable(): void {
-        // Register event listener
+        
+        
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
         $this->getLogger()->notice("Vex plugin is enabled!");
     }
