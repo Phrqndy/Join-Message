@@ -1,3 +1,5 @@
 # A Very Simple Join Message Plugin
 
-made this in 5 mins, got stuck a bit with syntax but not bad
+goofy plugin i made while practicing 2 months ago..
+
+(i forgot to upload it)
